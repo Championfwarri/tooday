@@ -1,0 +1,98 @@
+{
+  "tabs": {
+    "today": "TooDay",
+    "us": "Entre Nous",
+    "story": "Notre Histoire"
+  },
+  "today": {
+    "countdown": "Compte à rebours",
+    "daysLeft": "{{count}} jour",
+    "daysLeft_other": "{{count}} jours",
+    "noDate": "Définir une date",
+    "goodMorning": "Souhaite-lui bon matin",
+    "goodNight": "Souhaite-lui bonne nuit",
+    "ourDistance": "Notre distance",
+    "timeDiff": "+{{hours}}h, il est déjà {{time}} chez {{name}}"
+  },
+  "us": {
+    "dailyQuestion": "Question du jour",
+    "missYou": "Tu me manques",
+    "photoOfDay": "Photo du jour",
+    "ourList": "Notre liste",
+    "ourMoment": "Notre instant",
+    "capsule": "Capsule",
+    "answerFirst": "Réponds d'abord !",
+    "seePartnerAnswer": "Voir la réponse de {{name}}",
+    "premiumRequired": "Fonction TooDay+"
+  },
+  "story": {
+    "title": "Notre Histoire",
+    "events": "Événements",
+    "stats": "Statistiques",
+    "timeline": "Frise",
+    "togetherFor": "Ensemble depuis {{count}} jour",
+    "togetherFor_other": "Ensemble depuis {{count}} jours",
+    "nextReunion": "Prochaines retrouvailles",
+    "anniversary": "Anniversaire"
+  },
+  "onboarding": {
+    "intro": "La distance sépare les corps, pas les cœurs.",
+    "yourName": "Ton prénom",
+    "partnerName": "Prénom de ton/ta partenaire",
+    "togetherSince": "Ensemble depuis quand ?",
+    "visitFrequency": "À quelle fréquence vous voyez-vous ?",
+    "frequencyOptions": {
+      "weekly": "Chaque semaine",
+      "biweekly": "Toutes les 2 semaines",
+      "monthly": "Chaque mois",
+      "rarely": "Moins souvent"
+    },
+    "priority": "Ce qui compte le plus pour vous ?",
+    "priorityOptions": {
+      "stayClose": "Rester proches",
+      "communicate": "Mieux communiquer",
+      "countDays": "Compter les jours"
+    },
+    "yourCity": "Ta ville",
+    "partnerCity": "Sa ville",
+    "reunionDate": "Date des prochaines retrouvailles",
+    "noDateYet": "Pas encore de date",
+    "pairDevices": "Relier vos téléphones",
+    "setupSolo": "Configurer en solo",
+    "pairCode": "Code de couple",
+    "notifications": "Recevoir les pensées de {{name}} ?",
+    "notifSubtitle": "Quand {{name}} t'envoie un \"Tu me manques\" ou répond à une question.",
+    "allowNotif": "Activer les notifications",
+    "skipNotif": "Plus tard",
+    "trialTitle": "Essayez TooDay+ gratuitement",
+    "trialSubtitle": "7 jours d'accès complet, sans engagement.",
+    "startTrial": "Commencer l'essai gratuit",
+    "skipTrial": "Continuer sans essai",
+    "next": "Suivant",
+    "done": "C'est parti !"
+  },
+  "settings": {
+    "title": "Réglages",
+    "profile": "Profil",
+    "nickname": "Surnom du partenaire",
+    "couplePhoto": "Photo de couple",
+    "cities": "Villes",
+    "reunionDate": "Date de retrouvailles",
+    "relationship": "Relation",
+    "startDate": "Date de début",
+    "notifications": "Notifications",
+    "subscription": "Abonnement",
+    "pairing": "Appairage",
+    "language": "Langue"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer"
+  }
+}

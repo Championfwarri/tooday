@@ -1,0 +1,98 @@
+{
+  "tabs": {
+    "today": "TooDay",
+    "us": "Our Space",
+    "story": "Our Story"
+  },
+  "today": {
+    "countdown": "Countdown",
+    "daysLeft": "{{count}} day",
+    "daysLeft_other": "{{count}} days",
+    "noDate": "Set a date",
+    "goodMorning": "Wish them good morning",
+    "goodNight": "Wish them good night",
+    "ourDistance": "Our distance",
+    "timeDiff": "+{{hours}}h, it's already {{time}} at {{name}}'s"
+  },
+  "us": {
+    "dailyQuestion": "Daily Question",
+    "missYou": "Miss You",
+    "photoOfDay": "Photo of the day",
+    "ourList": "Our List",
+    "ourMoment": "Our Moment",
+    "capsule": "Capsule",
+    "answerFirst": "Answer first!",
+    "seePartnerAnswer": "See {{name}}'s answer",
+    "premiumRequired": "TooDay+ feature"
+  },
+  "story": {
+    "title": "Our Story",
+    "events": "Events",
+    "stats": "Stats",
+    "timeline": "Timeline",
+    "togetherFor": "Together for {{count}} day",
+    "togetherFor_other": "Together for {{count}} days",
+    "nextReunion": "Next reunion",
+    "anniversary": "Anniversary"
+  },
+  "onboarding": {
+    "intro": "Distance separates bodies, not hearts.",
+    "yourName": "Your name",
+    "partnerName": "Your partner's name",
+    "togetherSince": "Together since when?",
+    "visitFrequency": "How often do you see each other?",
+    "frequencyOptions": {
+      "weekly": "Every week",
+      "biweekly": "Every 2 weeks",
+      "monthly": "Every month",
+      "rarely": "Less often"
+    },
+    "priority": "What matters most to you?",
+    "priorityOptions": {
+      "stayClose": "Stay close",
+      "communicate": "Communicate better",
+      "countDays": "Count the days"
+    },
+    "yourCity": "Your city",
+    "partnerCity": "Their city",
+    "reunionDate": "Next reunion date",
+    "noDateYet": "No date yet",
+    "pairDevices": "Link your phones",
+    "setupSolo": "Set up solo",
+    "pairCode": "Couple code",
+    "notifications": "Receive {{name}}'s thoughts?",
+    "notifSubtitle": "When {{name}} sends you a \"Miss You\" or answers a question.",
+    "allowNotif": "Enable notifications",
+    "skipNotif": "Later",
+    "trialTitle": "Try TooDay+ for free",
+    "trialSubtitle": "7 days of full access, no commitment.",
+    "startTrial": "Start free trial",
+    "skipTrial": "Continue without trial",
+    "next": "Next",
+    "done": "Let's go!"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "nickname": "Partner nickname",
+    "couplePhoto": "Couple photo",
+    "cities": "Cities",
+    "reunionDate": "Reunion date",
+    "relationship": "Relationship",
+    "startDate": "Start date",
+    "notifications": "Notifications",
+    "subscription": "Subscription",
+    "pairing": "Pairing",
+    "language": "Language"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry"
+  }
+}

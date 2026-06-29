@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "ios-project-app",
-    "slug": "ios-project-app",
+    "name": "TooDay",
+    "slug": "tooday",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "iosprojectapp",
+    "scheme": "tooday",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/images/icon.png"
     },
     "android": {
       "adaptiveIcon": {
@@ -34,11 +34,16 @@
             "imageWidth": 76
           }
         }
-      ]
+      ],
+      "expo-localization"
     ],
     "experiments": {
-      "typedRoutes": true,
-      "reactCompiler": true
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d32b08fe-19f4-47f1-967f-822467a8926a"
+      }
     }
   }
 }
